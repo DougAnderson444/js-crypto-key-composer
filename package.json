@@ -1,5 +1,5 @@
 {
-  "name": "crypto-key-composer",
+  "name": "@douganderson444/crypto-key-composer",
   "version": "0.1.4",
   "description": "A library to decompose and compose crypto keys of different types and formats",
   "main": "lib/index.js",
